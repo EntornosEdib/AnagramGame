@@ -27,8 +27,8 @@ package com.toy.anagrams.lib;
 final class StaticWordLibrary extends WordLibrary {
 
     private static final String[] WORD_LIST = {
-        "rcuello",
-        "abstraction",
+        "bosco4",
+        "rcuello_track",
         "ambiguous",
         "arithmetic",
         "backslash",
