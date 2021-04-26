@@ -46,7 +46,7 @@ final class StaticWordLibrary extends WordLibrary {
         "expression",
         "facilitate",
         "fragment",
-        "hexadecimal",
+        "tperez",
         "implementation",
         "indistinguishable",
         "inheritance",
