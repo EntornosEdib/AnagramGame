@@ -42,7 +42,7 @@ final class StaticWordLibrary extends WordLibrary {
         "disambiguate",
         "dynamic",
         "encapsulation",
-        "equivalent",
+        "lpiza",
         "expression",
         "facilitate",
         "fragment",
