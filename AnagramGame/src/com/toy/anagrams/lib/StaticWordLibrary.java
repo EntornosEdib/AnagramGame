@@ -43,7 +43,7 @@ final class StaticWordLibrary extends WordLibrary {
         "dynamic",
         "encapsulation",
         "equivalent",
-        "expression",
+        "ptornero",
         "facilitate",
         "fragment",
         "hexadecimal",
