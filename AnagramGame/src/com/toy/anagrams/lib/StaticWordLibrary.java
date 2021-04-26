@@ -36,7 +36,7 @@ final class StaticWordLibrary extends WordLibrary {
         "circumstance",
         "combination",
         "consequently",
-        "consortium",
+        "jaguilo",
         "decrementing",
         "dependency",
         "disambiguate",
