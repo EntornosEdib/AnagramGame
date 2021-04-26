@@ -95,7 +95,7 @@ final class StaticWordLibrary extends WordLibrary {
         "aficilatet",
         "rfgaemtn",
         "ehaxedicalm",
-        "milpmeneatitno",
+        "ceuollr",
         "niidtsniugsiahleb",
         "niehiratcen",
         "nietnret",
