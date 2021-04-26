@@ -17,7 +17,7 @@
  * under the License.
  */
 
-/* Anagram Game Application */
+/* Anagram Game Curso 2021 */
 
 package com.toy.anagrams.lib;
 
